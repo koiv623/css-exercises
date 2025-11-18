@@ -1,1 +1,23 @@
-/* Add CSS Styling */
+/*styles.css */
+
+.odd,
+.three {
+    background-color: #ff9bca;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    ;
+}
+
+#NbrTwo {
+    color: rgb(85, 56, 245);
+    font-size: 36px
+}
+
+.three {
+    font-size: 40px
+}
+
+#four {
+    background-color: hsl(91, 70%, 65%);
+    font-size: 24px;
+    font-weight: 950;
+}
