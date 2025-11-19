@@ -3,7 +3,7 @@
 .odd,
 .three {
     background-color: #ff9bca;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
     ;
 }
 
@@ -13,7 +13,7 @@
 }
 
 .three {
-    font-size: 40px
+    font-size: 35px
 }
 
 #four {
