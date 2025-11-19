@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+/*styles.css */
+
+.left {
+    background-color: black;
+    color:aquamarine;
+    border-color:aqua
+}
+
+.right {
+    background-color: rgb(224, 224, 30);
+    border-color:red
+}
+
+.bait {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
